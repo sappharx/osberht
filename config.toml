@@ -1,0 +1,13 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Osberht the Umber'
+paginate = 10
+theme = "PaperMod"
+
+[params]
+
+[params.homeInfoParams]
+Title = "Osberht the Umber"
+Content = """
+Welcome to the profile of Osberht the Umber
+"""
