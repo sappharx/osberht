@@ -4,6 +4,8 @@ title = 'Osberht the Umber'
 paginate = 10
 theme = "PaperMod"
 
+buildDrafts = true
+
 [params]
 
 [params.homeInfoParams]
